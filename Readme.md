@@ -221,4 +221,4 @@ Rent - 130000
 Increament - 5%
 Deposit - 3 month 
 Lockin - 1 Year
-Total bond-3 yeat
+Total bond-3 year
