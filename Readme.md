@@ -217,7 +217,7 @@ Project - Sat
 
 
 
-Rent - 130000 - 150000 - 145000 including - 135000/- + 
+Rent - 130000 - 150000 - 145000 including - 135000/- 
 Increament - 5%
 Deposit - 3 month - 4 month + 3 month
 Lockin - 1 Year -
