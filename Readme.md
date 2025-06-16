@@ -220,5 +220,5 @@ Project - Sat
 Rent - 130000 - 150000
 Increament - 5%
 Deposit - 3 month 
-Lockin - 1 Year
-Total bond-3 year
+Lockin - 1 Year 
+Total bond-3 year - 
