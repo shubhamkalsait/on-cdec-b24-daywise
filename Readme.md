@@ -217,3 +217,4 @@ Project - Sat
 
 
 
+Rent - 130000
