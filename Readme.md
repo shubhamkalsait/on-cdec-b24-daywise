@@ -218,3 +218,4 @@ Project - Sat
 
 
 Rent - 130000
+Increament - 5%
