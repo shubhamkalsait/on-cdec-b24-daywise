@@ -2,7 +2,7 @@ Basic Linux Commands
 Redirector
 Editor VIM
 pipe output
-SEDt
+SEDt    AAA
 AWK
 ECHO
 SORT
